@@ -1,0 +1,44 @@
+{
+  "outputs": [
+    {
+      "sentiment": "Neutral",
+      "marketing_slogan": "A visual masterpiece that captivates the eye."
+    },
+    {
+      "sentiment": "Positive",
+      "marketing_slogan": "Hear the emotion. Feel the story. Experience characters that stay with you."
+    },
+    {
+      "sentiment": "Positive",
+      "marketing_slogan": "A thrilling ride that leaves you wanting more."
+    },
+    {
+      "sentiment": "Neutral",
+      "marketing_slogan": "A breathtaking visual experience that lights up the screen."
+    },
+    {
+      "sentiment": "Positive",
+      "marketing_slogan": "A story that speaks to the heart — raw, real, and unforgettable."
+    },
+    {
+      "sentiment": "Neutral",
+      "marketing_slogan": "Non-stop action that keeps you on the edge of your seat."
+    },
+    {
+      "sentiment": "Positive",
+      "marketing_slogan": "A powerhouse performance that will move you to your core."
+    },
+    {
+      "sentiment": "Neutral",
+      "marketing_slogan": "An unforgettable score that resonates long after the credits roll."
+    },
+    {
+      "sentiment": "Positive",
+      "marketing_slogan": "Feel-good entertainment that keeps the smiles coming long after the credits roll."
+    },
+    {
+      "sentiment": "Neutral",
+      "marketing_slogan": "A layered story with a rewarding finish that brings it all home."
+    }
+  ]
+}
